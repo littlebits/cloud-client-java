@@ -1,0 +1,12 @@
+# Logs
+logs
+*.log
+
+# IntelliJ project files
+.idea/
+*.iml
+
+# Maven
+gen
+dependency-reduced-pom.xml
+target/
