@@ -7,7 +7,7 @@ littleBits Cloud Platform client library for JVM applications.
 
 ## Build
 
-Manually building the library is not something we recommend if all you wants is to use it.
+Manually building the library is not something we recommend if all you want is to use it.
 Be advised, there may be dragons ahead! But if you **really, really** want to do it, you must have installed:
 * Git
 * Maven 3.x
